@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhinav-04k/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav-04k/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -15,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav-04k/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhinav-04k/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhinav-04k/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
